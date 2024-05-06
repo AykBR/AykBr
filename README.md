@@ -1,5 +1,5 @@
 <h1 align="center">Eu sou a Ayk</h1>
-<h3 align="left"></h3>
+<h3 align="left">Estou participando do bootcamp santander 2024 com a DIO</h3>
 <p align="left">
 </p>
 
