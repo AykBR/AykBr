@@ -1,7 +1,10 @@
 <h1 align="center">Eu sou a Ayk</h1>
 <h4 align='center'>Participando do Bootcamp Santander 2024</h4>
 
-<p align="left">
+<p align="center">
+
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AykBR&hide_progress=true&theme=synthwave)
+  
 </p>
 
 ## 📚 Habilidades
