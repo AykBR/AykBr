@@ -1,5 +1,9 @@
 <h1 align="center">Eu sou a Ayk</h1>
-<h3 align="left">Estou participando do bootcamp santander 2024 com a DIO</h3>
+<h3 align="center">Brasileira - ela/dela</h3>
+
+- Participando do Bootcamp Santander 2024 [DIO BOOTCAMP SANTANDER](https://app.santanderopenacademy.com/pt/program/santander-bootcamp-2024)
+
+<h3 align="left">Venha me conhecer:</h3>
 <p align="left">
 </p>
 
